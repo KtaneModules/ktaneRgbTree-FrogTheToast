@@ -14,7 +14,8 @@ MonoBehaviour:
   id: frogRgbTree
   title: RGB Tree
   author: FrogTheToast
-  description: sum sutff
+  description: "Deduce a tree then traverse the tree then admire the tree :)\n\nRGB
+    Tree 1.1\r\nModule ID: frogRgbTree\nCreated by: frog"
   version: 1.0
   outputFolder: D:\SteamLibrary\steamapps\common\Keep Talking and Nobody Explodes\mods
-  previewImage: {fileID: 0}
+  previewImage: {fileID: 2800000, guid: c85046b35a3d7db488d8e2430b7f3e94, type: 3}

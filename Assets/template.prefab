@@ -140,6 +140,7 @@ GameObject:
   - component: {fileID: 4035103650379336}
   - component: {fileID: 23123360015096986}
   - component: {fileID: 102264715888212446}
+  - component: {fileID: 114531527847762256}
   m_Layer: 0
   m_Name: heckin text
   m_TagString: Untagged
@@ -800,6 +801,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShaderNames:
   - Standard
+--- !u!114 &114531527847762256
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1736673681696210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1005838349, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShaderNames:
+  - GUI/KT 3D Text
 --- !u!114 &114547528443467536
 MonoBehaviour:
   m_ObjectHideFlags: 1
